@@ -1,0 +1,7 @@
+name: oRevert
+version: '${project.version}'
+main: me.oz1p.orevert.ORevert
+api-version: '1.16'
+authors: [Oz1p]
+commands:
+  orevert: {}

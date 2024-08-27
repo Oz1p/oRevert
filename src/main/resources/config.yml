@@ -1,0 +1,22 @@
+#        ____                     _
+#   ___ |  _ \ _____   _____ _ __| |_
+#  / _ \| |_) / _ \ \ / / _ \ '__| __|
+# | (_) |  _ <  __/\ V /  __/ |  | |_
+#  \___/|_| \_\___| \_/ \___|_|   \__|
+#  Для помощи: https://dsc.gg/oserver
+prefix: '&x&F&F&E&2&5&9ᴏ&x&F&F&D&8&5&8ʀ&x&F&F&C&E&5&6ᴇ&x&F&F&C&5&5&5ᴠ&x&F&F&B&B&5&4ᴇ&x&F&F&B&1&5&2ʀ&x&F&F&A&7&5&1ᴛ
+  &8»'
+block-end: true
+block-nether: true
+play-sound: true
+lang:
+  usage-1: '&f/orevert toggle [nether/end] &8- &7Переключить блокировку энда/ада'
+  usage-2: '&f/orevert reload &8- &7Перезагрузить конфиг'
+  no-perms: '&cНету прав!'
+  reloaded: '&3Конфиг перезагружен.'
+  nether: Ад
+  end: Энд
+  allowed: '&aможно'
+  not-allowed: '&cнельзя'
+  toggled: '&fВы переключили вход в &e%type%&f на %bool%.'
+  no-entry: '&fИзмерение &e%type%&f откроется XX.XX.XX в 00:00.'
